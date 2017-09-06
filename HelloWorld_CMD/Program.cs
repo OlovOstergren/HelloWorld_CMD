@@ -11,6 +11,7 @@ namespace HelloWorld_CMD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("It´s a good day today");
         }
     }
 }
