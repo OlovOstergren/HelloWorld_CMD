@@ -10,6 +10,7 @@ namespace HelloWorld_CMD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
